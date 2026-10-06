@@ -1,0 +1,11 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Java">
+  <rect x="2.5" y="2.5" width="95" height="95" rx="18" fill="#121211"/>
+  <g fill="none" stroke="#f3f1eb" stroke-width="4.6" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M31 52c-7 4-7 9 0 13 9 5 29 5 38 0 7-4 7-9 0-13"/>
+    <path d="M40 30c-6 8 12 12 6 22-3 5 1 8 1 8"/>
+    <path d="M55 30c-5 7 9 11 5 20"/>
+  </g>
+  <g fill="none" stroke="#f3f1eb" stroke-width="2.8" stroke-linecap="round">
+    <path d="M38 68c-3 3-3 6 2 7.5 8 2.5 16 2.5 24 0 5-1.5 5-4.5 2-7.5"/>
+  </g>
+</svg>

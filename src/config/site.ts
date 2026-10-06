@@ -194,7 +194,7 @@ export const site = {
       { label: 'LinkedIn', href: 'https://www.linkedin.com/in/praveenpamidi/' as string | null },
       { label: 'GitHub', href: 'https://github.com/PamidiPraveen' as string | null },
       { label: 'Email', href: 'mailto:pamidinagapraveen@gmail.com' as string | null },
-      { label: 'Resume', href: '/resume/Pamidi_Naga_Praveen_Resume.pdf' as string | null },
+      { label: 'Resume', href: '/resume/Resume_003.pdf' as string | null },
     ],
   },
 } as const
